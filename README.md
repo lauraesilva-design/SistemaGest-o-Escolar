@@ -1,6 +1,6 @@
-#Sistema de Gestão Escolar
+# Sistema de Gestão Escolar
 
-##Sistema para gerenciar funcionários, alunos, cursos e matrículas
+## Sistema para gerenciar funcionários, alunos, cursos e matrículas
 
 1.Que utilizará o sistema(usúarios)?
 funcionarios.
@@ -33,8 +33,11 @@ funcionarios.
 
 -Um aluno não pode ser matriculado duas ou mais vezes no mesmo curso.
 
--O sistema deve validar sa infomações.
+-O sistema deve validar sa informações.
 
-##PROBLEMA:
+## PROBLEMA:
 -Esses sistema é direcionado a funcionarios da escolas.
--Permite cadastrar, edita, listar e deletar alunos,cursos, matriculas e funcionarios.
+-Permite cadastrar, editar, listar e deletar alunos, cursos, matriculas e funcionarios.
+
+## Modelo de Negócio:
+![Business Model Canvas](images/ModelodeNegocio.png)
