@@ -59,6 +59,13 @@ funcionários.
 -Excluir os Funcionários
 -Excluir os Cursos
 -Excluir as Matrículas
+-Login de usúarios
+-Buscar aluno pelo nome
+-Buscar aluno pelo CPF
+-Buscar funcionario pelo nome
+-Buscar funcionario pelo CPF
+-Mostrar os cursos em que cada aluno está matriculado
+-Mostrar os alunos que estão matriculados em cada curso
 
 2. Requisitos Não Funcionais:
 -Autenticação
@@ -66,34 +73,16 @@ funcionários.
 -Interface responsiva e adaptativa e diversas resoluções de telas e dispositivos diferentes, como computador, celular e tablet
 -Interface deve ser compatível com os principais navegadores Web
 -Criptografar as senhas antes de salvá-las no banco de dados
--Quando o sistema notificar qualquer erro, tem que ser corrigido rapidamente.
--Atender o usúario com dificuldade de acessar
--usuário só pode ter acesso somente às funções permitidas
--Notificar erros internos do sistema
--Notificar erros externos do sistema
--Ser facíl de acessar o sistema
--Melhor velocidade no carregamento da página
--Os dados importantes devem possuir cópias de segurança
--Teve ter armazenamento suficiente para todos dados armazenados
--O sistema deve suportar muitos usúarios utilizando ao mesmo tempo 
--Ter proteção a dados pessoais dos alunos como nome completo, cpf, idade e etc
--Ter proteção a dados pessoais dos Fucionarios que ficam no sistema como nome completo, cpf, telefone e etc
--O sistema deve permitir recuperação dos dados em caso de falha no sistema
--Sistema deve registrar alterações importantes realizadas pelos funcionários
--Quando utilizado deve evitar travamentos e erros frequentes
--O sistema deve carregar rapidamente as informações
--Deve ficar disponível durante o horário de trabalho e tanbém de estudo
--O sistema deve continuar funcionando adequadamente mesmo com o aumento do número de funcionários
--Ter uma lista para quem esta a espera de uma vaga
--O funcionário poderá configurar o sistema de acordo com seu cargo no trabalho
--Quando ocorrer erros no sistema ele deve conseguir recuperar informações após uma falha inesperada.
--O sistema deve permitir adaptações quando a instituição mudar seus processos.
--Quando ouver a retirada de um fucionario o sistema altomaticamente deve bloquea-lo a entrada dele no sistema
--Quando ouver a retirada de um aluno o sistema altomaticamente deve bloquea-lo a entrada dele no sistema
--Em caso de invasão no sistema, deve notificar a central e bloquear todos os acessos até que o problema ser resolvido
--As informações exibidas aos funcionários devem ser apresentadas sem erros
--O funcionario responsável deve conseguir corrigir problemas e realizar melhorias facilmente
--O sistema deve manter seu funcionamento correto durante o horario de trabalho
--O sistema deve permitir configurar idioma, formato de data e horário
--As ações importantes realizadas pelos funcionarios devem poder ser verificadas posteriormente
--Quando ocorrer um problema, o sistema deve apresentar uma mensagem clara explicando o erro para o funcionario 
+-Disponivel durante todo o horario de funcionamento da instituição
+-Restringir acesso pelo tipo de usúario
+
+## Regras de Negócio:
+-CPF de cada aluno de ser único
+-CPF de cada funcionário de ser único
+-Email de cada funcionario deve ser único
+-A matrícula de cada aluno deve ser única
+-Nome de cada curso deve ser único
+-Impedir exclusão de cursos de tenham alunos matriculados
+-Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
+
+
