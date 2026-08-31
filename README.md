@@ -84,5 +84,7 @@ ac-Mostrar os alunos que estão matriculados em cada curso
 -Nome de cada curso deve ser único
 -Impedir exclusão de cursos de tenham alunos matriculados
 -Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
--
+
+## Caso de Uso:
+![Casos de Uso](images/caso-de-uso.png)
 
