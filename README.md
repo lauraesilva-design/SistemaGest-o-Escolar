@@ -44,28 +44,28 @@ funcionários.
 
 ## Requisitos:
 1. Requisitos Funcionais:
--Cadastrar Alunos
--Cadastrar Funcionários
--Cadastrar Cursos
--Listar Alunos
--Listar Cursos
--Mostrar dados dos Alunos
--Mostrar dados dos Funcionários
--Mostrar dados do Curso
--Realizar Matrículas
--Editar os dados do Aluno
--Editar os dados do Funcionário
--Excluir os Alunos
--Excluir os Funcionários
--Excluir os Cursos
--Excluir as Matrículas
--Login de usúarios
--Buscar aluno pelo nome
--Buscar aluno pelo CPF
--Buscar funcionario pelo nome
--Buscar funcionario pelo CPF
--Mostrar os cursos em que cada aluno está matriculado
--Mostrar os alunos que estão matriculados em cada curso
+ac-Cadastrar Alunos
+a-Cadastrar Funcionários
+ac-Cadastrar Cursos
+c-Listar Alunos
+c-Listar Cursos
+c-Mostrar dados dos Alunos
+a-Mostrar dados dos Funcionários
+c-Mostrar dados do Curso
+a-Realizar Matrículas
+a-Editar os dados do Aluno
+a-Editar os dados do Funcionário
+a-Excluir os Alunos
+a-Excluir os Funcionários
+a-Excluir os Cursos
+a-Excluir as Matrículas
+ac-Login de usúarios
+ac-Buscar aluno pelo nome
+ac-Buscar aluno pelo CPF
+ac-Buscar funcionario pelo nome
+ac-Buscar funcionario pelo CPF
+ac-Mostrar os cursos em que cada aluno está matriculado
+ac-Mostrar os alunos que estão matriculados em cada curso
 
 2. Requisitos Não Funcionais:
 -Autenticação
@@ -84,5 +84,5 @@ funcionários.
 -Nome de cada curso deve ser único
 -Impedir exclusão de cursos de tenham alunos matriculados
 -Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
-
+-
 
