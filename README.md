@@ -135,7 +135,7 @@ Fazer o diagrama de sequência para todos os casos de uso:
 
 - Excluir aluno
 
-- Excluir curso
+- Excluir curso!
 
 - Excluir funcionário
 
@@ -163,10 +163,55 @@ Fazer o diagrama de sequência para todos os casos de uso:
 ![Cadastrar Alunos](images/CadastrarAluno.png)
 
 ## Listar Funcionários:
-![Listar Funcionários]()
+![Listar Funcionários](images/ListarFuncionario.png)
 
 ## Listar Cursos:
-![Listar Cursos]()
+![Listar Cursos](images/ListarCurso.png)
 
 ## Listar Alunos:
-![Listar Alunos]()
+![Listar Alunos](images/ListarAluno.png)
+
+## Mostrar dados do Funcionário:
+![Mostrar dados do Funcionário](images/MostrarDadosFuncionario.png)
+
+## Mostrar dados do Curso:
+![Mostrar dados do Curso](images/MostrarDadosCurso.png)
+
+## Mostrar dados do Aluno:
+![Mostrar dados do Aluno](images/MostrarDadosAluno.png)
+
+## Editar dados do Funcionário:
+![Editar dados do Funcionário](images/EditarDadosFuncionario.png)
+
+## Editar dados do Curso:
+![Editar dados do Curso](images/EditarDadosCurso.png)
+
+## Editar dados do Aluno:
+![Editar dados do Aluno](images/EditarDadosAluno.png)
+
+## Excluir Funcionário:
+![Editar Funcionário]()
+
+## Excluir Curso:
+![Editar Curso]()
+
+## Excluir Aluno:
+![Editar Aluno]()
+
+## Excluir Matrícula:
+![Editar Matrícula]()
+
+## Buscar funcionário pelo Nome:
+![Buscar funcionário pelo Nome]()
+
+## Buscar funcionário pelo CPF:
+![Buscar funcionário pelo CPF]()
+
+## Buscar aluno pelo Nome:
+![Buscar aluno pelo Nome]()
+
+## Buscar aluno pelo CPF:
+![Buscar aluno pelo CPF]()
+
+## Realizar matrículas:
+![Realizar matrículas]()
