@@ -190,28 +190,28 @@ Fazer o diagrama de sequência para todos os casos de uso:
 ![Editar dados do Aluno](images/EditarDadosAluno.png)
 
 ## Excluir Funcionário:
-![Editar Funcionário]()
+![Excluir Funcionário](images/ExcluirFuncionario.png)
 
 ## Excluir Curso:
-![Editar Curso]()
+![Excluir Curso](images/ExcluirCurso.png)
 
 ## Excluir Aluno:
-![Editar Aluno]()
+![Excluir Aluno](images/ExcluirAluno.png)
 
 ## Excluir Matrícula:
-![Editar Matrícula]()
+![Excluir Matrícula](images/ExcluirMatricula.png)
 
 ## Buscar funcionário pelo Nome:
-![Buscar funcionário pelo Nome]()
+![Buscar funcionário pelo Nome](images/BuscarNomeFuncionario.png)
 
 ## Buscar funcionário pelo CPF:
-![Buscar funcionário pelo CPF]()
+![Buscar funcionário pelo CPF](images/BuscarCPFFuncionario.png)
 
 ## Buscar aluno pelo Nome:
-![Buscar aluno pelo Nome]()
+![Buscar aluno pelo Nome](images/BuscarNomeAluno.png)
 
 ## Buscar aluno pelo CPF:
-![Buscar aluno pelo CPF]()
+![Buscar aluno pelo CPF](images/BuscarCPFAluno.png)
 
 ## Realizar matrículas:
-![Realizar matrículas]()
+![Realizar matrículas](images/RealizarMatricula.png)
